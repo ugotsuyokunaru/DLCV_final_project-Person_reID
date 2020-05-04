@@ -1,0 +1,39 @@
+
+# baseline
+/baseline/__pycache__/*
+/baseline/Market/*
+/baseline/model/*
+/baseline/mat/*
+/baseline/demo_output/*
+
+!/baseline/model/.gitkeep
+!/baseline/mat/pytorch_result_ft_net_dense.mat
+
+# IMDb
+/__pycache__/*
+/dataset/*
+/IMDb/*
+/IMDb_mini/*
+/IMDb_resize/*
+/model/*
+/models/*
+/mat/*
+/record/*
+/output/*
+/features/*
+/pretrain/*
+/preprocess/face.evoLVe.PyTorch/align/__pycache__/*
+preprocess/face.evoLVe.PyTorch/align/__pycache__/*
+/model_face/*
+/log/*
+/feature_np/*
+
+!/model_face/net_best.pth
+
+# all
+*.csv
+*.jpg
+*.txt
+*.pth
+*.json
+*.pyc
