@@ -41,7 +41,7 @@ Given all images, we trained our model by Triplet Loss to extract features such 
 
 # Usage of codes to reproduce our results
 ### 0. Clone the project repository
-Clone this repository to your local machine by using the following command.
+Clone this repository to your local machine by the following command.
 
     git clone https://github.com/ugotsuyokunaru/DLCV-final_project.git
 
