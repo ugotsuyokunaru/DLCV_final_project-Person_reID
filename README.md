@@ -27,7 +27,7 @@ Given all images, we trained our model by Triplet Loss to extract features such 
   <img src="./src/loss_function.PNG">
 </p>
 
-### 4. Inferencing: Extract features of all queries and candidates with trained model, perform the re-ranking alrogithm to the features to get the revised distances, and output the final re-ranked results (to a cvs file) with the smallest revised distances.
+### 4. Inferencing with Re-ranking: Extract features of all queries and candidates with trained model, perform the k-reciprocal encoding re-ranking alrogithm to the features to get the revised distances, and output the final re-ranked results (to a cvs file) with the smallest revised distances.
 <!-- calculate distance between all queries and candidates with either cosine similarity function or re-ranking function. Output the ranking order as csv format finally. -->
 <p align="center">
   <img src="./src/rerank.PNG">
