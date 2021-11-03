@@ -2,7 +2,7 @@
 Deep Learning for Computer Vision (2019 Spring) Group 36  
 
 ## Task Definition
-Given an image of a query image and some candidate images from gallery, we want to find the best candidate images for the query image (sorted by confidence).
+Given an image of a query image and some candidate images from gallery, we want to find the best candidate images with the same person as the person in the query image (sorted by confidence).
 
 ## Solutions and Experiment
 ### Our Best Solution: 
